@@ -1,0 +1,1 @@
+/home/mango/workspace/study/gdb_script/scripts/gdb/vmlinux-gdb.py
